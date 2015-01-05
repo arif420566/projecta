@@ -22,5 +22,5 @@ namespace Package3
         {
             return 5.0;
         }
-    }
+    }//package3
 }
